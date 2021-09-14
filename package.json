@@ -1,0 +1,23 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ali awais",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "browserslist": [
+    ">0.0%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "fs": "^0.0.1-security",
+    "postcss": "^8.3.6",
+    "postcss-nested": "^5.0.6",
+    "postcss-scss": "^4.0.0"
+  }
+}

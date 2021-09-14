@@ -1,0 +1,10 @@
+body {
+  color: blue;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+}
+  body h2 {
+    color: red;
+  }
